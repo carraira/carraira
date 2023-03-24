@@ -1,7 +1,5 @@
 ### Hi there 👋👋👋👋👋👋👋👋👋👋
 
-
-**carraira/carraira** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 Airan L. Carreño Perez (https://www.linkedin.com/in/airan-carre%C3%B1o-perez-146b6616a/)
 
 Here are some ideas to get you started:
